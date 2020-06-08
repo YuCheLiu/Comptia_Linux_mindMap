@@ -1,0 +1,1 @@
+# Comptia_Linux_mindMap
