@@ -639,13 +639,21 @@
 
 - Tokens
 
+	- one time password
+
 - Biometrics
 
 - Radius
 
+	- Internet protocol provide AAAservice
+
 - LDAP
 
 - Kerberos 
+
+	- SSO
+
+		- Single sign on
 
 - Multi-factory authentication
 
@@ -691,6 +699,32 @@
 - Disable ctrl +Alt+Del
 
 - Enable auditd service
+
+- Add the banner message to /etc/issue
+
+	- Banner message = user login message
+
+	- More message
+
+		- /etc/motd 
+
+			- Message of the day
+
+- Disable insecure service
+
+	- FTP
+
+	- Telnet
+
+	- Finger
+
+		- Retrieve the user information and data through internet
+
+	- mail service
+
+		- Sendmail
+
+		- Postfix
 
 ### Authentication software 
 
